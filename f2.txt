@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 This is devops external lab exam
+=======
+updating the content of the file
+>>>>>>> fb
